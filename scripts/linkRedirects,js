@@ -1,0 +1,5 @@
+let headerTitle = document.getElementsByClassName("header-title")[0];
+
+headerTitle.addEventListener("click", () => {
+    window.location.replace("https://www.github.com/thisiskartikgupta/Seat-Book-Count-JS")
+});
